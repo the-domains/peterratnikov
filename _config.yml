@@ -1,0 +1,28 @@
+name: Peter Ratnikov
+favicon: null
+layout_spectrum: 0.9555181586183608
+typography_spectrum: 0.8527473835274577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1186788643244654
+  lightness: 0.8114841626957059
+  saturation: 0.9748749604914337
+  rhythmicContrast: 0.1072520597372204
+purpose: []
